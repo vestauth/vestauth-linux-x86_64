@@ -1,6 +1,6 @@
 {
   "name": "@vestauth/vestauth-linux-x86_64",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "description": "vestauth-linux-x86_64 binary",
   "repository": {
     "type": "git",
